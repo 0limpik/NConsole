@@ -1,0 +1,18 @@
+{
+    "name": "NConsole.Editor",
+    "rootNamespace": "Olimpik.NConsole.EditorN",
+    "references": [
+        "GUID:ace6e5a0bcb82c3478a4e7e5d333775a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
